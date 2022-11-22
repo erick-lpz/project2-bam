@@ -159,7 +159,7 @@ p{
 /*tercera parte de la pagina*/
 .explore{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url("./images/fondo2.jpg");
     background-position: center;
     background-size: cover;
@@ -188,6 +188,7 @@ p{
 }
 
 .explore-content p{
+    width: 100%;
     color: rgb(221, 221, 221);
     padding-left: 500px;
 }
